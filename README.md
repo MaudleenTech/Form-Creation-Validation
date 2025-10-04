@@ -49,8 +49,8 @@ Form-Creation-Validation/
 │── README.md
 └── assets/
     └── screenshot1.jpg
-    └── screenshot2.jpg
-    └── screenshot3.jpg
+    └── screenshot4.jpg
+    └── screenshot5.jpg
 ```
 
 ---
@@ -109,8 +109,8 @@ Form-Creation-Validation/
 Here’s how the form looks in action:  
 
 ![Form Screenshot](assets/screenshot1.jpg)
-![Form Screenshot](assets/screenshot2.jpg)
-![Form Screenshot](assets/screenshot3.jpg)
+![Form Screenshot](assets/screenshot4.jpg)
+![Form Screenshot](assets/screenshot5.jpg)
 
 
 ---
