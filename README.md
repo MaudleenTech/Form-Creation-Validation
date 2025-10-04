@@ -43,10 +43,14 @@ By completing this project, I am able to:
 
 ```
 Form-Creation-Validation/
-│── index.html        # The registration form  
-│── style.css         # Styling rules for form & feedback  
-│── script.js         # Validation logic in JavaScript  
-│── README.md         # Project documentation  
+│── index.html
+│── style.css
+│── script.js
+│── README.md
+└── assets/
+    └── screenshot1.jpg
+    └── screenshot2.jpg
+    └── screenshot3.jpg
 ```
 
 ---
@@ -100,10 +104,14 @@ Form-Creation-Validation/
 
 ---
 
-## 📸 Demo Preview
+## 📸 Demo Preview  
 
-✨ A form with real-time validation and feedback messages.
-(Insert a screenshot/GIF of your webpage here once ready!)
+Here’s how the form looks in action:  
+
+![Form Screenshot](assets/screenshot1.jpg)
+![Form Screenshot](assets/screenshot2.jpg)
+![Form Screenshot](assets/screenshot3.jpg)
+
 
 ---
 
